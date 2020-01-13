@@ -22,7 +22,6 @@ deploy:
   password: $apikey
   api: https://api.eu-gb.bluemix.net
   organization: gauri.pandit.99@gmail.com
-
   space: dev
   manifest: manifest.yml
   on:
